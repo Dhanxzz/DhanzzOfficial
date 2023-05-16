@@ -28,7 +28,7 @@ cd your-repo
 
 ## Usage
 
-Feel free to use this project as a template for your own personal portfolio. Modify the HTML and CSS files to suit your needs and replace the images with your own.
+Feel free to use this project as a template for your own personal portfolio. But make sure to replace the images with your own.
 
 ## Contributing
 
