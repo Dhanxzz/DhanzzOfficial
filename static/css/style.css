@@ -1141,10 +1141,10 @@ mark {
 .home-banner:after {
   content: "";
   position: absolute;
-  right: -20vh;
-  top: -20vh;
-  width: 100vh;
-  height: 100vh;
+  right: 20vh;
+  top: 20vh;
+  width: 60vh;
+  height: 60vh;
   border-radius: 50%;
   background: #0b0b13;
   z-index: -1;
@@ -1223,7 +1223,7 @@ mark {
 }
 .home-banner .type-box .desc {
   max-width: 450px;
-  font-size: 18px;
+  font-size: 16px;
 }
 @media (max-width: 767px) {
   .home-banner .type-box .desc {
@@ -1933,4 +1933,3 @@ mark {
     padding-top: 55%;
   }
 }
-
