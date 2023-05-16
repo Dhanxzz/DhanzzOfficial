@@ -1141,7 +1141,7 @@ mark {
 .home-banner:after {
   content: "";
   position: absolute;
-  right: 20vh;
+  right: 25vh;
   top: 20vh;
   width: 60vh;
   height: 60vh;
@@ -1933,3 +1933,4 @@ mark {
     padding-top: 55%;
   }
 }
+
